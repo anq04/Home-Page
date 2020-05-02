@@ -1,0 +1,379 @@
+.a{
+    background-color: rgb(70,90, 200);
+    height: 60px;
+    width: 1400px;
+}
+.a #first > img:hover{
+    widows: 50px;
+    height: 40px;
+    cursor: pointer;
+}
+.a #first{
+    width: 300px;
+float: left;
+height: 60px;
+padding-top: 10px;
+}
+.a #second{
+    float: left;
+    color: white;
+    font-size: large;
+   padding-top: 20px;
+}
+.a #button button{
+    margin: 15px;
+height: 30px;
+padding-left: 20px;
+margin-left: 20px;
+float: left;
+
+}
+
+.navigation #saylanilogo{
+  position:absolute;
+  left: 20px;
+  float: left;
+  width: 170px;
+  height: 55px;
+
+}
+
+.navigation #navbar{
+    padding-left: 400px;
+    display: inline-block;
+    justify-content: space-between;
+   
+    height: 50px;
+}
+
+
+ .btn-group button {
+     border: none;
+    background-color: white;
+    padding: 10px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    border-radius: 50%;
+ }
+ .btn-group button:hover{
+     background-color: blue;
+ }
+ 
+ 
+.marquee{
+    width: 1100px;
+    position: relative;
+    left:5%;
+    right:5%;
+    background-color:royalblue;
+    color:white;
+    font-size: x-large;
+}
+.marquee #events{
+    color: yellowgreen;
+}
+.intro{
+    background-color: whitesmoke;
+}
+.intro h1{
+    padding-top: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    color: green;
+ 
+}
+.intro h1 #introduction{
+    color:blue;
+}
+.intro img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro p{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    padding:10px;
+font-size: large;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+color: grey;
+}
+
+
+.table{
+    background-color: rgb(38, 86, 230);
+    height:450px;
+
+}
+.table th, .table td {
+    border-top:none
+    ;
+}
+.table #figures{
+    font-size: 50px;
+    font-weight: 400;
+    color: white;
+    width: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.table #daily{
+    font-size: large;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.table #daily #bracket{
+    color:greenyellow
+}
+.table #monthly{
+    font-size: large;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+.table #monthly #bracket2{
+    color: greenyellow;
+}
+
+.activity{
+    background-color:whitesmoke;
+    width: 1300px;
+    
+    height: 800px;
+}
+.activity h1{
+    text-align: center;
+    font-size: 50px;
+}
+.activity h1 #one{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.activity h1 #two{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.activity img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.activity #sadqah, .activity #welfare, .activity #medical,.activity #food, .activity #water,.activity #read{
+    color:rgb(38, 86, 230);
+     font-size: 30px;
+     text-align: center;
+     margin-top: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     margin-bottom: 30px;
+    display: inline-block;
+    background-color: white;
+    width: 300px;
+    height:200px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 5px 5px #777777;
+}
+.mission{
+    background-color: white;
+    width: 900px;
+    float: left;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.mission h1 {
+   color: blue;
+}
+.mission p{
+    color: lightgray;
+}
+.mission #underline{
+    color: green;
+}
+.mission #heart, .mission #it{
+    width:400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    height:75px;
+  text-align: center;
+  font-size: x-large;
+  color:blue;
+  font-weight: bold;
+    background-color: whitesmoke;
+ margin-bottom: 30px;   float: left;
+}
+.mission #society, .mission #thar{
+    width:400px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    height:75px;
+  text-align: center;
+  font-size: x-large;
+  color:blue;
+  font-weight: bold;
+    background-color: whitesmoke;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.marquee2 #pline {
+    color: lightgray;
+}
+.marquee2 #underline{
+    color: green;
+}
+.marquee2{
+    padding-top: 30px;
+}
+.marquee2 h2{
+    color: blue;
+}
+.marquee2 #m #p {
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.marquee2 #m #p #links{
+    color: blue;
+    cursor: pointer;
+}
+.imagegallery{
+    background-color: whitesmoke;
+    padding-top: 20px;
+}
+.imggallery h1{
+    text-align: center;
+    color: green;
+}
+.imggallery h1 #gallery{
+    color:blue;
+}
+.imggallery #block{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.imageContainer > img:hover {
+    width: 300px;
+    height: 200px;
+    cursor: pointer;
+  }
+  .imageContainer{
+      margin-left: 150px;
+
+  }
+.footer{
+    background-color: rgba(0, 0, 0, 0.76);
+    color: white;
+    margin-top: 30px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-left: 35px;
+
+}
+.footer th{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bottom{
+    background-color: blue;
+   padding-left: 50px;
+    color: white;
+    font-size: small;
+    height: 30px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.gototop #myBtn{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    border: none; 
+    outline: none;
+   background: transparent; 
+    cursor: pointer; 
+    padding: 15px; 
+    border-radius: 10px; 
+    font-size: 50px;   
+  }
+  
+.gototop #myBtn:hover {
+    background-color:black;
+  }
+  [class*="col-"] {
+    width: 100%;
+  }
+  
+  @media only screen and (max-width: 768px) and (min-width: 320px) {
+    /* For tablets: */
+    .a {width: 700px; height: 200px;}
+   
+    .navigation #logos{
+        width: 17000px;
+        height: 300px;
+        float: none;
+    }
+    .navigation #navbar{
+        width: 170px;
+       display: inline;
+    }
+    .marquee {width: 550px;height: 50px;}
+   .table tr{
+        width: 500px; display: block;
+    }.table img,.table td{
+        width:90px;font-size: 14px;
+    }
+.activity{
+    width: 600px;
+    height: 1800px;
+}
+    .mission{
+        display: block;
+        width: 600px;
+    }
+    .mission #society, .mission #thar {
+        margin-left: 5px;
+    }
+    .footer table{
+        width: 600px;
+       display: block;       
+    }
+    .footer td{
+        width: 140px;
+    }
+
+    @media only screen and (max-width: 1024px) and (min-width: 400px) {
+        .a {width: 700px; height: 200px;}
+       
+        .navigation #logos{
+            width: 17000px;
+            height: 300px;
+            float: none;
+        }
+        .navigation #navbar{
+            width: 170px;
+           display: inline;
+        }
+        .marquee {width: 550px;height: 50px;}
+       .table tr{
+            width: 500px; display: block;
+        }.table img,.table td{
+            width:90px;font-size: 14px;
+        }
+    .activity{
+        width: 600px;
+        height: 1800px;
+    }
+        .mission{
+            display: block;
+            width: 600px;
+        }
+        .mission #society, .mission #thar {
+            margin-left: 5px;
+        }
+        .footer table{
+            width: 600px;
+           display: block;       
+        }
+        .footer td{
+            width: 140px;
+        }}
